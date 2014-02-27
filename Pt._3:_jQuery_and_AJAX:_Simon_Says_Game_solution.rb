@@ -1,0 +1,1 @@
+# Solution for Challenge: Pt. 3: jQuery and AJAX: Simon Says Game. Started 2014-02-27T15:44:37+00:00
